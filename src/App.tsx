@@ -1,8 +1,8 @@
 import "./App.css";
-import { UpdateName } from "./actions/UpdateName";
+import { ChangeName } from "./actions/ChangeName";
 
 function App() {
-  return <UpdateName />;
+  return <ChangeName />;
 }
 
 export default App;
